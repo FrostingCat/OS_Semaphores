@@ -18,4 +18,4 @@ d. На экран выводятся этапы покупок: когда по
 
 Пример выполнения программы: 
 
-![ФАйл](https://user-images.githubusercontent.com/97798186/233171329-7a63f6b3-4ab5-496c-8665-8b42750dc954.jpg)
+![ФАйл](https://user-images.githubusercontent.com/97798186/233171684-61d0be8d-1620-4fa4-a041-30e05d1a9196.jpg)

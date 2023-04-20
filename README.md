@@ -54,3 +54,11 @@ b. Описание программ:
 
 ![ФАйл](https://user-images.githubusercontent.com/97798186/233357202-e47019de-0c7a-4899-bd43-8892900d34a5.jpg)
 
+## Реализация программы на 8
+
+Были использованы семафоры стандарта UNIX SYSTEM V вместо семафор POSIX.
+
+Пример работы программы:
+
+![ФАйл](https://user-images.githubusercontent.com/97798186/233445540-8bdd0bfa-5e9c-41bb-994e-e92a917e54a1.jpg)
+
